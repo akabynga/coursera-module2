@@ -23,9 +23,9 @@ h1{
 .col-md-7,.col-md-8,.col-md-9,
 .col-md-10,.col-md-11,.col-md-12{
 	position: relative;
-	border: 2px solid black;
-	border-radius: 3px;
-	padding: 5px;
+	border: 1px solid black;
+	border-radius: 1px;
+	padding: 5px 5px 20px 5px;
 	background-color: gray;
 	margin: 1.25%;
 }
@@ -40,8 +40,8 @@ p{
 	padding-top: 33px;
 }
 .label{
-	border: 2px solid black;
-	border-radius: 3px;
+	border: 1px solid black;
+	border-radius: 1px;
 	position: relative;
 	float: right;
 	margin: 0;
